@@ -97,7 +97,7 @@ a {
 
 .box {
     background-color: rgb(33, 68, 68);
-    height: 1110px;
+    height: 1180px;
     padding-left: 20px;
     padding-right: 40px;
     display: flex;
@@ -109,8 +109,6 @@ a {
 .footer {
     height: 25vh;
     color: #052d21;
-    padding-bottom: 20px;
-    padding-top: 20px;
     background-color: rgb(33, 68, 68);
    
    
@@ -129,7 +127,10 @@ a {
     border-top-right-radius: 100px;
 }
 .box-footer {
+    margin-left: 6%;
     display: flex;
+    justify-content: center;
+    align-items: center;
 width: 90%;
 height: 100%;
 
