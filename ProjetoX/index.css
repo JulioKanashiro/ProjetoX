@@ -98,7 +98,7 @@ a {
 }
 
 .box {
-    background-color: rgba(26, 53, 53, 0.999);
+    background-color: rgb(28, 54, 54);
     height: 610px;
     padding: 3%;
     display: flex;
